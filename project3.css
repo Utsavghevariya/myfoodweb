@@ -1,0 +1,376 @@
+.header {
+    width: 100%;
+    height: 100px;
+    /* border: 2px solid gray; */
+    background-color: black;
+}
+
+.logo1 {
+    margin-left: 120px;
+    margin-top: 0px;
+}
+
+
+.bars {
+    display: flex;
+    justify-content: end;
+    vertical-align: top;
+    margin-top: -40px;
+    font-size: 30px;
+    margin-right: 120px;
+    color: white;
+}
+
+.container {
+    width: 50%;
+    height: 550px;
+    /* border: 2px solid gray; */
+    float: left;
+
+}
+
+
+.img1 {
+    margin-top: 25px;
+    margin-left: 70px;
+
+}
+
+
+.con1 {
+    width: 50%;
+    height: 300px;
+    /* border: 2px solid gray; */
+    margin-top: 0px;
+    margin-left: 50%;
+
+
+
+}
+
+.t1 {
+    background-color: lime;
+    color: white;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    margin-right: 400px;
+    font-size: 20px;
+}
+
+.t2 {
+    font-size: 50px;
+    /* font-weight:600; */
+    font-family: arial;
+    margin-top: 25px;
+
+}
+
+.t3 {
+    font-size: 20px;
+    margin-top: -20px;
+
+}
+
+.but1 {
+    width: 130px;
+    height: 40px;
+    background-color: orange;
+    color: black;
+    margin-top: 0px;
+}
+
+.off1 {
+    width: 300px;
+    height: 120px;
+    /* border: 2px solid gray; */
+    float: left;
+    margin-top: -50px;
+    margin-left: 80px;
+
+
+    margin: 90px;
+}
+
+.off1:hover {
+    box-shadow: 1px 1px 2px gray;
+}
+
+.offimg1 {
+    padding: 20px;
+    height: 60px;
+    width: 60px;
+}
+
+.offimg2 {
+
+    margin: 10px;
+}
+
+.offp1 {
+
+    margin-left: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    display: flex;
+    margin-top: -75px;
+
+}
+
+.offp2 {
+    margin-top: 5px;
+    margin-left: 100px;
+    display: flex;
+
+
+
+}
+
+.offp3 {
+
+    display: flex;
+    margin-top: 5px;
+    margin-left: 100px;
+
+
+}
+
+.offp4 {
+
+    display: flex;
+
+    margin-left: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    display: flex;
+    margin-top: -77px;
+
+
+
+
+}
+
+.offp5 {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 100px;
+
+
+}
+
+.offp6 {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 100px;
+
+
+
+}
+
+.sub2 {
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+    margin-left: 700px;
+
+
+}
+
+
+.hr1 {
+    background-color: black;
+    height: 1px;
+}
+
+
+.div3 {
+    width: 100%;
+    height: 250px;
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p6 {
+    text-align: center;
+    margin: 30px 0px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.container2 {
+
+    width: 1060px;
+    height: 760px;
+    /* border: 2px solid gray; */
+    margin-left: 220px;
+    margin-top: 30px;
+    display: flex;
+    /* background-color: yellow; */
+}
+
+
+.img2 {
+    width: 500px;
+    height: 500px;
+
+
+
+}
+
+.img3 {
+    height: 500px;
+    width: 270px;
+    margin: 0px 10px;
+
+}
+
+
+.img4 {
+    width: 270px;
+    height: 250px;
+}
+
+
+.img8 {
+    margin-top: -200px;
+
+
+}
+
+.img6 {
+    margin-left: -1060px;
+    width: 250px;
+    height: 250px;
+    margin-top: 510px;
+    float: left;
+
+}
+
+
+
+.img5 {
+    margin-top: 260px;
+    margin-left: -270px;
+    width: 270px;
+    height: 500px;
+
+}
+
+
+.img10 {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 510px;
+
+}
+
+.img11 {
+
+    width: 260px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 510px;
+
+}
+
+.div4 {
+    width: 100%;
+    height: 250px;
+    /* border: 2px solid gray; */
+    background-color: black;
+    color: white;
+}
+
+.logo2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.tbl1 {
+
+    margin-top: -50px;
+    margin-right: 150px;
+    width: 500px;
+    height: 210px;
+    margin-left: 780px;
+
+
+}
+
+.tr1 {
+    margin: 10px;
+
+}
+
+
+.logo3 {
+    width: 40px;
+    height: 40px;
+    margin: 0px 5px;
+}
+
+.ssa {
+    border-radius: 10px;
+
+}
+
+.ssa:hover {
+    box-shadow: 2px 2px 2px black;
+}
+
+.vertical {
+    vertical-align: top;
+}
+
+.inp1 {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+.but1:hover {
+    box-shadow: 1px 1px solid black;
+    background-color: black;
+    color: white;
+}
+
+.sub2:hover {
+
+    box-shadow: 1px 1px solid black;
+    background-color: black;
+    color: white;
+
+}
+
+.p13 {
+    color: white;
+}
+
+.p13:hover {
+    /* background-color: red; */
+    color: aqua;
+}
+
+.bars:hover {
+    color: red;
+
+}
+
+body {
+    background-color: #BCD9F4;
+}
+
+.bgcolor1 {
+    background-color: #AE86F4;
+    width: 330px;
+}
+
+a{
+    text-decoration: none;
+}
